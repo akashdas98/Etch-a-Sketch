@@ -1,0 +1,1 @@
+This was quite an interesting one for me, given, at the moment I knew nothing about CSS grid. A simple float-clear was enough for the layout. Got more familiar with the mouseenter event in javaScript. Overall, a very fun and knowledgeable experience.  
